@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>os_wiki</id>
+<name>WIKI风格</name>
+<url>https://www.os369.com/app/item/os_wiki</url>
+<note>WIKI风格的主题</note>
+<description></description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name></name>
+  <email></email>
+  <url></url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151740</adapted>
+<version>1.0</version>
+<pubdate>2018-03-11</pubdate>
+<modified>2018-03-11</modified>
+<price>0</price>
+<phpver>5.5</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>

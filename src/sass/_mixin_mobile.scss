@@ -1,0 +1,5 @@
+@import "mixin";
+
+@function getrem($val: 10px,$scale: 1) {
+    @return $val/100px*$scale+rem;
+}

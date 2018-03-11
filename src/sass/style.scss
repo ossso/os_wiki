@@ -1,0 +1,11 @@
+// compileCompressed: ../../static/css/style.css
+// compileExpanded: ../../static/css/style.css
+@import "variable";
+@import "mixin";
+@import "color";
+@import "keyframes";
+@import "format";
+
+img {
+    @include animate(fadeIn, 200ms);
+}

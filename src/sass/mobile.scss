@@ -1,0 +1,11 @@
+// compileCompressed: ../../static/css/mobile.css
+// compileExpanded: ../../static/css/mobile.css
+@import "variable";
+@import "color";
+@import "mixin_mobile";
+@import "keyframes_mobile";
+@import "format_mobile";
+
+img {
+    @include animate(fadeIn, 200ms);
+}
